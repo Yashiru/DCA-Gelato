@@ -1,6 +1,5 @@
 cache/
 out/
-lib/
 .env
 deploy.sh
 package.json
